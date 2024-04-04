@@ -1,0 +1,13 @@
+{
+  "name": "xenowaza ci",
+  "description": "xenowaza ci starter workflow.",
+  "iconName": "octicon sun",
+  "categories": [
+    "continuous-integration"
+  ],
+  "filePatterns": [
+    "package.json$",
+    "^Dockerfile",
+    ".*\\.md$"
+  ]
+}
